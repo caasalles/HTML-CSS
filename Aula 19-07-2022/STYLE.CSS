@@ -1,0 +1,15 @@
+@CHARSET "UFT-8";
+
+*{margin:0; Padding:0;}
+
+
+div#corpo {width:880px;
+        margin:auto;}
+
+nav#cabecalho {text-aling:right;
+           margin:0; padding:0;
+           font-size:15px;
+           background-color:black;
+
+                    }
+
